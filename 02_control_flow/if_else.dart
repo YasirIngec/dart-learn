@@ -27,5 +27,4 @@ void main(List<String> args) {
   int sayi = 10;
   String sonuc = (sayi % 2 == 0) ? "Çift" : "Tek";
   print("Sayı $sayi → $sonuc");
-
 }
