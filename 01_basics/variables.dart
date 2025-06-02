@@ -38,4 +38,17 @@ void main(List<String> args) {  // yorum satırı için
   print("Adınız $name ve soyadınız $lastname ve bu ikisinin toplam karakter sayısı : ${(name + lastname).length}");
 
 
+  final bugun = DateTime.now(); // Değeri bir kez atanabilir, sonradan değişmez
+  const PI = 3.14;              // Sabit bir değer, derleme zamanında sabit olmalı
+
+  print("Bugün: $bugun, PI: $PI");
+
+  //null değeri alabilen değişken (nullable types)
+  int? not = null;
+  print("Not: $not");
+
+  // Daha sonra değer atayabilirsin
+  not = 100;
+  print("Yeni not: $not");
+
 }
