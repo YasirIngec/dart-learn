@@ -19,15 +19,14 @@ void main(List<String> args) {
   }
 
   int number = 55;
-  int bolum = (number/10).toInt();
-  switch(bolum){
+  int bolum = (number / 10).toInt();
+  switch (bolum) {
     case 6:
       print("Sayı 60'dan büyüktür.");
     case 5:
       print("Sayı 50'den büyüktür.");
     case 4:
       print("Sayı 40'den büyüktür.");
-
   }
 
   String sehir = "ANKARA";
