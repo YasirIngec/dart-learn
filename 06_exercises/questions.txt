@@ -3,3 +3,10 @@
 
 2- Adınızı, doğum yılınızı, güncel yılı değişkenlerde saklayıp yaşınızı ekrana yazdırın
 örnek çıktı : adım yasir, 2003 yılında doğdum ve şuan 22 yaşıdayım
+
+3- Kullanıcıdan aldığınız 3 sayının ortalmasını bulan uygulama yapınız.
+
+4- Kullanıcıdan aldığınız vize ve final puanlarıyla not orltalamasını bunulunuz. vizenin %40 finalin
+%60 alınır. Eğer ortalama 50 üzerindeyse dersten geçmiştir.
+
+5-Tanımlanan int bir sayının faktoriyelini bulan uygulamayı yazınız.
