@@ -1,6 +1,0 @@
-1- Kullanıcıdan aldığınız 3 sayının ortalmasını bulan uygulama yapınız.
-
-2- Kullanıcıdan aldığınız vize ve final puanlarıyla not orltalamasını bunulunuz. vizenin %40 finalin
-%60 alınır. Eğer ortalama 50 üzerindeyse dersten geçmiştir.
-
-3-Tanımlanan int bir sayının faktoriyelini bulan uygulamayı yazınız.
