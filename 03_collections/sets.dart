@@ -35,7 +35,7 @@ void main(List<String> args) {
   print(sayilar);
 
   var numaralar = Set.from([5, 4, 3, 3, 2, 2, 45, 67, 86]);
-  var deneme = Set.from({5, 4, 32, 1, 543, 63, 432, 1, 2});
+  var deneme = Set.from({5, 4, 32, 1, 543, 63, 432,2});
   print(deneme);
   print(numaralar);
 

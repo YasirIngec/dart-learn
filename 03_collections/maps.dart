@@ -11,7 +11,7 @@ void main(List<String> args) {
   print(alanKodlari);
   print(alanKodlari["ankara"]);
   print(alanKodlari2[212]);
-
+  print(bilgiler);
   for (var eleman in alanKodlari.keys) {
     print(eleman);
   }
